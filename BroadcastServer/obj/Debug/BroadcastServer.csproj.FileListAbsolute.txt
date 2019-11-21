@@ -1,0 +1,6 @@
+C:\Users\nyiro\Desktop\C# Broadcasting\BroadcastServer\bin\Debug\BroadcastServer.exe.config
+C:\Users\nyiro\Desktop\C# Broadcasting\BroadcastServer\bin\Debug\BroadcastServer.exe
+C:\Users\nyiro\Desktop\C# Broadcasting\BroadcastServer\bin\Debug\BroadcastServer.pdb
+C:\Users\nyiro\Desktop\C# Broadcasting\BroadcastServer\obj\Debug\BroadcastServer.csprojAssemblyReference.cache
+C:\Users\nyiro\Desktop\C# Broadcasting\BroadcastServer\obj\Debug\BroadcastServer.exe
+C:\Users\nyiro\Desktop\C# Broadcasting\BroadcastServer\obj\Debug\BroadcastServer.pdb
